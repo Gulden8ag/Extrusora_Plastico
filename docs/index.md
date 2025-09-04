@@ -75,9 +75,8 @@ hide:
 * Purificación y re-polimerización</li>
 * Ideal para PLA contaminado o degradado</li>
 
-<figure markdown="span">
-  ![gif](/recursos/imgs/idit.jpg){ width="500" }
-</figure>
+![GIF](/recursos/imgs/idit.jpg){ width=500px style="display:block; margin:auto;" }
+
 
 ## 💻 Proyecto Tecnológico
 

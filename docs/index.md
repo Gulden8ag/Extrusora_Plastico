@@ -17,9 +17,9 @@ hide:
 
 ##♻️ Proyecto Recicladora de Plástico PLA
 
-<figure markdown="span">
-  ![logo ibero](recursos/imgs/logo.png)
-</figure>
+
+![logo ibero](recursos/imgs/logo.png)
+
 <hr style="border:1px solid #4aa276ba;">
 <hr style="border:1px solid #4aa276ba;">
 
@@ -37,15 +37,14 @@ hide:
 * Promueve el uso responsable de recursos naturales renovables.
 * Contribuye a la lucha contra la contaminación y el cambio climático.
 
-<figure markdown="span">
+
   ![gif](recursos/imgs/filamento.gif)
-</figure>
+
 
 ## 🔬 Propiedades del PLA
 
-<figure markdown="span">
-  ![gif](recursos/imgs/barrel.webp)
-</figure>
+![gif](recursos/imgs/barrel.webp)
+
 
 
 <div align="center">

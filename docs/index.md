@@ -17,8 +17,6 @@ hide:
 
 ##♻️ Proyecto Recicladora de Plástico PLA
 
-## logo ibero
-
 <figure markdown="span">
   ![logo ibero](/recursos/imgs/logo.png){ width="300" }
 </figure>

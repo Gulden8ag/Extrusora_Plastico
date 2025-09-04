@@ -1,0 +1,11 @@
+# 🔗 Referencias {#referencias}
+Barrios, M. (2024)
+### 🔗 [Abrir artículo](https://gtaambiental.com/reciclaje-mecanico-y-quimico/)
+Caballero 3D (2023)
+### 🔗 [Abrir artículo](https://caballero3d.com/pla/)
+Ecoembes (2025)
+### 🔗 [Abrir artículo](https://reducereutilizarecicla.org/plastico-pla-usos-reciclaje/)
+Plastic Injection Molding Maker (2024)
+### 🔗 [Abrir guía](https://www.djmolding.com/es/pla-injection-molding-a-comprehensive-guide/)
+Romero, J. (2022)
+### 🔗 [Abrir artículo](https://sicnova3d.com/blog/experiencias-3d/que-es-el-pla-en-impresion-3d-y-para-que-se-utiliza/)

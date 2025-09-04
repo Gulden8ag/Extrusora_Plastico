@@ -1,4 +1,4 @@
-site_name: Plantilla para Documentación
+site_name: Extrusora de Plástico
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
@@ -28,13 +28,43 @@ theme:
   name: material
   highlightjs: true 
   palette:
-      - scheme: default
-        primary: red
+        
+      - media: "(prefers-color-scheme)"
+        toggle:
+          icon: material/brightness-auto
+          name: Switch to light mode
+
+
+  
+      - media: "(prefers-color-scheme: light)"
+        scheme: default 
+        toggle:
+          icon: material/brightness-7
+          name: Switch to dark mode
+
+ 
+      - media: "(prefers-color-scheme: dark)"
+        scheme: slate
+        toggle:
+          icon: material/brightness-4
+          name: Switch to system preference
 
   features:
     - content.code.copy
     - content.tooltips
+    - navigation.top       # Menú superior
+    - navigation.sections  # Secciones en la izquierda
+    - toc.integrate        # Integra el índice en el panel izquierdo
+    - toc.follow           # Índice fijo en la derecha
 extra_css:
   - https://use.fontawesome.com/releases/v6.5.2/css/all.css
   - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css
+nav:
+  - Inicio: index.md
+  - Presentación: presentacion.md
+  - Plástico PLA: plasticopla.md
+  - Funcionamiento de la extrusora: funcionamientoextrusora.md
+  - Componentes principales: componentes.md
+  - Contacto: contacto.md
+  - Referencias: referencias.md
 

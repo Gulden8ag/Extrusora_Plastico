@@ -18,7 +18,7 @@ hide:
 ##♻️ Proyecto Recicladora de Plástico PLA
 
 <figure markdown="span">
-  ![logo ibero](/recursos/imgs/logo.png){ width="300" }
+  ![logo ibero](recursos/imgs/logo.png)
 </figure>
 <hr style="border:1px solid #4aa276ba;">
 <hr style="border:1px solid #4aa276ba;">
@@ -38,13 +38,13 @@ hide:
 * Contribuye a la lucha contra la contaminación y el cambio climático.
 
 <figure markdown="span">
-  ![gif](/recursos/imgs/filamento.gif){ width="500" }
+  ![gif](recursos/imgs/filamento.gif)
 </figure>
 
 ## 🔬 Propiedades del PLA
 
 <figure markdown="span">
-  ![gif](/recursos/imgs/barrel.webp){ width="500" }
+  ![gif](recursos/imgs/barrel.webp)
 </figure>
 
 
@@ -64,18 +64,18 @@ hide:
 
 ### ♻️ Reciclaje Mecánico  
 
-* Trituración y lavado del material</li>
-* Secado para eliminar humedad</li>
-* Reextrusión en pellets o filamentos</li>
+* Trituración y lavado del material
+* Secado para eliminar humedad
+* Reextrusión en pellets o filamentos
 
 
 ### 🔄 Reciclaje Químico  
 
-* Despolimerización para obtener monómeros puros</li>
-* Purificación y re-polimerización</li>
-* Ideal para PLA contaminado o degradado</li>
+* Despolimerización para obtener monómeros puros
+* Purificación y re-polimerización
+* Ideal para PLA contaminado o degradado
 
-![GIF](recursos/imgs/idit.jpg){ width=500px style="display:block; margin:auto;" }
+![GIF](recursos/imgs/idit.jpg)
 
 
 ## 💻 Proyecto Tecnológico

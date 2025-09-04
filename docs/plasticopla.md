@@ -45,7 +45,7 @@ El PLA es un termoplástico popular en impresión 3D; proviene de recursos renov
 - Controlar **tiempo de residencia** para limitar degradación  
 - Puertas/canales que reduzcan **cizalla excesiva**
 
-| ![Diagrama proceso de inyección PLA](/recursos/imgs/inyeccion.webp){ width=300px } | ![Pieza inyectada en PLA](/recursos/imgs/piezapla.png){ width=300px } |
+| ![Diagrama proceso de inyección PLA](recursos/imgs/inyeccion.webp) | ![Pieza inyectada en PLA](recursos/imgs/piezapla.png) |
 |:------------------------------------------------------:|:--------------------------------------------------:|
 | **Diagrama proceso de inyección PLA**                  | **Pieza inyectada en PLA**                          |
 
@@ -60,14 +60,14 @@ El PLA es un termoplástico popular en impresión 3D; proviene de recursos renov
 - Mejor para **corrientes limpias y homogéneas**; menor costo energético  
 - Propiedades degradan tras múltiples ciclos → considerar **aditivos/mezclas**
 
-![Flujo mecánico PLA](/recursos/imgs/flujopla.webp)
+![Flujo mecánico PLA](recursos/imgs/flujopla.webp)
 
 ### **Reciclaje químico**
 - **Proceso:** Despolimerización *(hidrólisis/pirólisis/solvolisis)* → monómeros *(ác. láctico/lactida)*  
 - **Purificación** → re-polimerización para PLA de alta calidad  
 - Admite **residuos contaminados o mezclados**; proceso más complejo y costoso
 
-![Flujo químico PLA](/recursos/imgs/flujo.webp)
+![Flujo químico PLA](recursos/imgs/flujo.webp)
 
 ---
 

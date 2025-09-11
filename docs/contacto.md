@@ -1,3 +1,27 @@
+# Nuestro equipo 👤
+
+| ![Aaron](img/aaron.jpg) |
+|-------------------------|
+| Aaron Alejandro Arambula Valdivieso |
+
+| ![Andreas](img/andreas.jpg) |
+|-----------------------------|
+| Andreas Solano |
+
+| ![Carlos](img/carlos.jpg) |
+|----------------------------|
+| Carlos Alberto Vazquez |
+
+| ![Francisco](img/francisco.jpg) |
+|---------------------------------|
+| Francisco Zavala Ponce de León |
+
+| ![Juan](img/juan.jpg) |
+|-----------------------|
+| Juan Goana |
+
+
+
 # Colaboración y Futuro 🤝 
 * Open Source: Proyecto abierto a contribuciones
 * Integrar más tipos de plásticos biodegradables
